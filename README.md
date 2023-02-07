@@ -53,7 +53,7 @@ sudo systemctl enable sddm
 
 ## SOFT 
 ```
-sudo pacman -S pulseaudio pavucontrol firefox telegram-desktop lxappearance ntfs-3g gvfs
+sudo pacman -S pulseaudio pavucontrol firefox telegram-desktop ntfs-3g gvfs
 awesome-terminal-fonts ttf-jetbrains-mono exa bat ttf-font-awesome htop
 ``` 
   
